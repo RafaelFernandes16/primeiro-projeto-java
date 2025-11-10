@@ -1,8 +1,11 @@
-public class Test {
+public class Test{
 
-    public static run() {
+  public static run() {
+         System.out.println("Corre forest gump !!!");
+
+
+      System.out.println("teste");
         System.out.println("Corre forest gump !!!");
-        System.out.println("Corre patricia velha de guerra");
     }
 
 }
