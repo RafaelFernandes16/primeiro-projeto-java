@@ -21,7 +21,9 @@ class Film {
             Muito bom!
             Ano de lançamento
             """ + anoDeLançamento;
-        System.out.println(sinope);
+
+
+        Util.ola();
 
     }
 

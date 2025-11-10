@@ -1,4 +1,6 @@
-package PACKAGE_NAME;
-
 public class Util {
+
+    public static void ola(){
+        System.out.println("Deu certo");
+    }
 }
