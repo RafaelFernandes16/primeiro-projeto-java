@@ -3,8 +3,8 @@
 
 class Film {
 
-    public static void main(String[] args) {
-        IO.println(String.format("Esse é o Screen Match!"));
+    static void main(String[] args) {
+        IO.println("Esse é o Screen Match!");
         System.out.println("Filme: Top Gun: Maverick");
 
         int anoDeLançamento = 2022;
@@ -21,10 +21,11 @@ class Film {
             Muito bom!
             Ano de lançamento
             """ + anoDeLançamento;
+        System.out.println(sinope);
 
-
-        Util.ola();
+      int classicacao = (int) (media /2);
+        System.out.println(classicacao);
 
     }
 
-}
+}S
